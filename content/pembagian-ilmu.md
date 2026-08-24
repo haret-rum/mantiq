@@ -1,7 +1,7 @@
 ---
 title: 02 Pembagian Ilmu
 description:
-permalink: pembagian-ilmu
+permalink: ilmu
 aliases:
   - Pembagian Pengetahuan
 tags:

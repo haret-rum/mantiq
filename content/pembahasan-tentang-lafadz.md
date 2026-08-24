@@ -1,7 +1,7 @@
 ---
 title: 04 Pembahasan Tentang Lafadz
 description:
-permalink: pembahasan-tentang-lafadz
+permalink: pembahasan-lafadz
 socialImage:
 socialDescription:
 date: 2026-07-11

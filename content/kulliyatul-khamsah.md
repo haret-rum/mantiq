@@ -4,7 +4,7 @@ aliases:
   - five predicables
 title: 05 Kulliyyatul Khamsah
 description:
-permalink: kulliyatul-khamsah
+permalink: kulliyat-khamsah
 tags:
   - tashawwur
   - kulli
