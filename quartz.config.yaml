@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: id-ID
-  baseUrl: haret-rum.github.io/mantiq
+  baseUrl: mantiq.segara-alam.my.id
   ignorePatterns:
     - private
     - templates
