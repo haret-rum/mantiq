@@ -18,16 +18,10 @@ Sebelum memasuki pembagian ilmu, perlu disepakati terlebih dahulu apakah yang di
 Dalam perspektif ilmu mantiq, ilmu atau pengetahuan dibagi menjadi dua:
 
 1\. **Tashawwur (konsepsi):** menangkap makna mufrod,
-
-::: {lang=ar-AR}
 > إدراك معنى مفرد
-:::
 
 2\. **Tashdīq (justifikasi):** menangkap makna berlakunya nisbat.
-
-::: {lang=ar-AR}
 > إدراك معنى وقوع نسبة
-:::
 
 Ad-Damanhuri mencontohkan dengan: 
 $$  
@@ -77,8 +71,7 @@ Mudahnya, baik tashawwur dharūrī maupun tashdīq dharūrī dapat diketahui den
 
 *Bagan pembagian ilmu*
 
-```{.mermaid export_scale=5 width=400%}
-%%{init: {"theme":"neutral","themeVariables":{"primaryColor":"#4C78A8","primaryTextColor":"#ffffff","lineColor":"#6B6B6B","secondaryColor":"#999999","fontFamily":"Amiri"}}}%%
+```mermaid
 flowchart TD
 A[العلم] --> B[تصور]; 
 A --> C[تصديق]; 

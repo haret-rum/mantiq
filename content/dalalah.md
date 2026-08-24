@@ -15,10 +15,7 @@ publish: true
 ---
 
 Para ahli mantiq mendefinisikan dalālah sebagai tindak memahami sesuatu berdasarkan sesuatu yang lain
-
-::: {lang=ar-AR}
 > فهم أمر من أمر
-:::
 
 Sesuatu yang kedua disebut dengan **dāl (penanda)** sedangkan sesuatu yang pertama disebut dengan **madlūl (petanda)**. Tindak memahami hubungan antara keduanya diistilahkan sebagai **dalālah (penandaan)**. Misalnya, dengan kata "Langit" (dāl) kita memahami objek yang ditunjuk oleh kata tersebut (madlūl) yaitu sfera yang luas membentang di atas kita yang tampaknya berwarna biru. 
 
@@ -26,9 +23,7 @@ Contoh lainnya: lampu merah **(dāl)** menunjukkan **(dalālah)** perintah berhe
 
 Namun definisi di atas mengandung kekurangan sebab mengandaikan bahwa penandaan bergantung pada ada tidaknya orang yang memahami. Sedangkan **menurut kelompok lainnya (al-Khubaishi, Qutbuddin ar-Razi, dsb) dalālah itu terkandung dan melekat pada dāl** dan tidak bergantung pada ada tidaknya orang yang memahaminya. Oleh karena itu, kelompok terakhir mendefinisikannya dengan:
 
-::: {lang=ar-AR}
 > كون الشيئ بحالة يلزم من العلم به العلم بشيئ اخر
-:::
 
 > Adanya sesuatu berdasarkan situasi tertentu (mis. kesepakatan/wadh'), pengetahuan tentang sesuatu tersebut meniscayakan pengetahuan tentang sesuatu yang lain.
 

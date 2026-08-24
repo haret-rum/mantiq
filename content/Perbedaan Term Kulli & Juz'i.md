@@ -1,4 +1,3 @@
-
 ---
 title: 07 Perbedaan Menyangkut Term Kulli dan Juz'i
 description:
@@ -15,7 +14,8 @@ date: 2026-07-17
 publish: true
 ---
 
-### Perbedaan-Perbedaan Berkaitan Dengan Kulli Dan Juz'i
+## Perbedaan-Perbedaan Berkaitan Dengan Kulli Dan Juz'i
+
 - sesuatu yang dihukumi sebagai sekumpulan (jumlah) - "seluruh, sekelompok"
 - sekumpulan yang tidak dapat disederhanakan hukumnya terhadap afrodnya
 	- santri putra - keseluruhan tapi satu kelompok satu padu - berhasil mengangkat batu yang besar
@@ -33,13 +33,9 @@ publish: true
 | جزئي<br>Juz'i      | isim yang mengandung makna yang tidak dapat diterapkan pada banyak afrad<br>ما يمتنع صدقه على أفراد كثيرين | زيد                  |
 | جزئية<br>Juz'iyyah | hukum yang diterapkan pada sebagian afrad<br>الحكم على بعض الأفراد                                         | بعض الإنسان صادق     |
 
-duaanya-duanya tidak terjadi dalam sekaligus (kull)
+## Taqsim
 
-setiap keduanya tidak terjadi (kulliyah)
-
-### Taqsim
-
-taqsim : memecah sesuatu menjadi beberapa bagian
+**Taqsim**: memecah sesuatu menjadi beberapa bagian
 
 Taqsim adakalanya ia berupa :
 1. memecah keseluruhan menjadi bagian-bagiannya atau تقسيم الكل إلى أجزائه , atau 
@@ -54,17 +50,17 @@ Taqsim adakalanya ia berupa :
 
 #### Contoh تقسيم الكل إلى أجزائه
 
-manusia (مقسم) dibagi (تقسيم) menjadi beberapa bagian: 
+**manusia** (مقسم) dibagi (تقسيم) menjadi beberapa bagian: 
 
 1. kepala (قسم)
-2. leher ~~adalah manusia~~ 
+2. leher 
 3. punggung
 4. pinggang
 5. dst.
 
-	kepala adalah قسيم dari leher
+kepala adalah قسيم dari leher
 
-Kursi dibagi menjadi beberapa bagian:
+**Kursi** dibagi menjadi beberapa bagian:
 
 1. Paku
 2. Kayu
@@ -119,6 +115,7 @@ flowchart LR
 
 Gelas <u>sesuatu yang dapat mejadi wadah yang berukuran kecil, yang bahannya bisa dari kaca atau kayu atau plastik.</u>
 
+Taqsim lengkapnya:
 sesuatu
 - yang dapat menjadi wadah
 	- berukuran kecil
@@ -128,35 +125,3 @@ sesuatu
 	- berukuran sedang
 	- berukuran besar
 - tidak dapat menjadi wadah
-
-manusia <u>sesuatu yang hidup di darat yang dapat bergerak serta berakal</u>
-
-⇒ manusia adalah hewan yang berakal
-
-"sesuatu"
-- hidup
-	- bergerak
-		- di darat
-			- berakal
-			- tidak berakal
-		- di laut
-	- tidak bergerak 
-- mati
-
-Sesuatu = {hidup, mati}
-hidup = {yang bergerak, yang tidak bergerak}
-yang bergerak = {di darat, di laut}
-
-tindakan
-- ibadah
-	- amal
-		- solat
-		- puasa
-		- zakat
-		- aji
-	- bukan amal
-		- hamdalah
-		- dst
-- bukan ibadah
-	- amal
-	- bukan amal
