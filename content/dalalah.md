@@ -1,7 +1,7 @@
 ---
 title: 03 Dalālah
 description:
-permalink: dalalah
+permalink: penandaan
 aliases:
   - Signifikasi
   - Penandaan
