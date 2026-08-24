@@ -1,7 +1,7 @@
 ---
 title: 06 Hubungan di Antara Kulli
 description:
-permalink: hubungan-di-antara-kulli
+permalink: hubungan-kulli
 aliases:
   - nisbat kulliyyat
   - nisbat makna dan lafadz
