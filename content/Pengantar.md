@@ -1,7 +1,7 @@
 ---
 title: 01 Pengantar Mantiq
 description:
-permalink: panduan-penulisan-umum
+permalink: pengantar-mantiq
 aliases:
   - Mukaddimah Mantiq
   - Mukaddimah Ilmu Logika
@@ -69,9 +69,7 @@ Perkembangan mantiq setelah itu berkembang dalam komentar-komentar, penjelasan (
 
 Definisi Ilmu Mantiq: 
 
-::: {lang=ar-AR}
 > علم يبحث فيه المعلومات التصورية والتصديقية من حيث إنها توصل إلى مجهول تصوري أوتصديقي أو يتوقف عليها التوصل إلى ذلك
-:::
 
 >  Ilmu yang membahas pengetahuan tashawwur (penggambaran) dan tashdiq (keputusan) sehingga dengannya dapat mengantarkan pada tashawwur dan tashdiq  yang sebelumnya tidak diketahui, serta pengetahuan lain yang disyaratkan bagi proses pengantaran tersebut.
 
@@ -97,9 +95,7 @@ Lewat ilmu mantiq kita juga tahu bahwa kesimpulan "emas dapat menghantarkan pana
 
 Dalam kumpulan fatwanya, Ibnu Sholah mengatakan: 
 
-::: {lang=ar-AR}
 > الفلسفة رأس السفه والانحلال، ومادة الحيرة والضلال، ومثار الزيغ والزندقة، ومن تفلسف عميت بصيرته عن محاسن الشريعة المؤيدة بالحجج الظاهرة والبراهين الباهرة، و من تلبس بها تعليما وتعلما قارنه الخذلان والحرمان، واستحوذ عليه الشيطان...وأما المنطق فهو مدخل الفلسفة، ومدخل الشر شر، وليس الاشتغال بتعليمه وتعلمه مما أباحه الشارع، ولا استباحه أحد من الصحابة والتابعين، والأئمة المجتهدين والسلف الصالحين، وسائر من يقتدي به من أعلام الأئمة وسادتها...
-:::
 
 > Filsafat adalah pangkal kebodohan dan kerusakan, sumber kebingungan dan kesesatan, pemicu penyimpangan dan kemurtadan. Siapa pun yang berfilsafat, maka akan buta mata hatinya dari keindahan syariat yang didukung oleh hujjah-hujah yang jelas dan bukti-bukti yang gemilang. Siapa pun yang berkecimpung di dalamnya, baik dengan mengajar maupun mempelajarinya, maka akan disertai dengan kehinaan dan kerugian, serta dikuasai oleh setan... Adapun mantiq, ia adalah pintu masuk menuju filsafat, dan pintu masuk keburukan adalah keburukan. Menyibukkan diri dengan mengajarkan dan mempelajarinya bukanlah sesuatu yang dibolehkan oleh syariat, dan tidak ada seorang pun dari sahabat, tabi'in, imam-imam mujtahid, salaf saleh, serta orang-orang yang patut diteladani dari tokoh-tokoh imam dan pemimpin yang membolehkannya... 
 
@@ -107,9 +103,7 @@ Dalam kumpulan fatwanya, Ibnu Sholah mengatakan:
 
 Dalam kumpulan fatwanya As-Subuki mengatakan:
 
-::: {lang=ar-AR}
 > يجوز الاشتغال بالمنطق، وينتفع به ويعين على العلوم الإسلامية وغيرها، وهو من أحسن العلوم وأنفعها في كل بحث، وليس في المنطق بمجرده أصلا. ومن قال إنه كفر، أو حرام فهو جاهل لا يعرف الكفر ولا التحريم ولا التحليل؛ فإنه علم عقلي محض كالحساب.
-:::
 
 > Boleh saja mempelajari ilmu logika dan memanfaatkannya serta mengembangkannya dalam ilmu-ilmu keislaman dan lainnya. Ilmu logika adalah salah satu ilmu terbaik dan paling bermanfaat dalam setiap penelitian, dan pada dasarnya tidak ada masalah dalam ilmu logika itu sendiri. Barang siapa mengatakan bahwa ilmu logika itu kufur atau haram, maka dia adalah orang yang bodoh, tidak mengerti apa itu kekufuran, keharaman, maupun penghalalan. Karena ilmu logika murni ilmu akal, seperti halnya ilmu hitung.
 

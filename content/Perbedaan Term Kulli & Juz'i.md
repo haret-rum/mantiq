@@ -1,7 +1,20 @@
+
 ---
-aliases: 
-tags: 
+title: 07 Perbedaan Menyangkut Term Kulli dan Juz'i
+description:
+permalink: perbedaan-menyangkut-term-kulli-dan-juzi
+aliases:
+  - Perbedaan Kulliyyah dan Kulli
+  - Perbedaan Juz'iyyah dan Juz'i
+tags:
+  - kull
+  - juz
+socialImage:
+socialDescription:
+date: 2026-07-17
+publish: true
 ---
+
 ### Perbedaan-Perbedaan Berkaitan Dengan Kulli Dan Juz'i
 - sesuatu yang dihukumi sebagai sekumpulan (jumlah) - "seluruh, sekelompok"
 - sekumpulan yang tidak dapat disederhanakan hukumnya terhadap afrodnya

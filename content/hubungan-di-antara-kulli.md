@@ -1,5 +1,5 @@
 ---
-title: 05 Hubungan di Antara Kulli
+title: 06 Hubungan di Antara Kulli
 description:
 permalink: hubungan-di-antara-kulli
 aliases:

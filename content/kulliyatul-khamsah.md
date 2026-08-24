@@ -2,7 +2,7 @@
 aliases:
   - kulliyah khamsah
   - five predicables
-title: 04 Kulliyyatul Khamsah
+title: 05 Kulliyyatul Khamsah
 description:
 permalink: kulliyatul-khamsah
 tags:

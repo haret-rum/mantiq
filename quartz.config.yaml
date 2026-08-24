@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Source Sans Pro
-      body: EB Garamond
+      header: Amiri
+      body: Amiri
       code: IBM Plex Mono
       title: Literata
     colors:
@@ -62,7 +62,17 @@ plugins:
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:
+      comments: true
+      highlight: true
+      wikilinks: true
+      callouts: true
+      mermaid: true
+      parseTags: true
+      parseArrows: true
+      parseBlockReferences: true
       enableInHtmlEmbed: false
+      enableYouTubeEmbed: true
+      enableVideoEmbed: true
       enableCheckbox: true
     order: 30
   - source: "@quartz-community/github-flavored-markdown"
@@ -91,7 +101,7 @@ plugins:
     enabled: false
     order: 85
   - source: "@quartz-community/hard-line-breaks"
-    enabled: false
+    enabled: true
     order: 90
   - source: "@quartz-community/ox-hugo"
     enabled: false
@@ -104,7 +114,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: false
     options:
-      theme: tokyo-night
+      theme: default
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -115,7 +125,12 @@ plugins:
     options: {}
     order: 45
   - source: "@quartz-community/encrypted-pages"
-    enabled: false
+    enabled: true
+    options:
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
   - source: "@quartz-community/stacked-pages"
     enabled: false
     layout:
@@ -208,18 +223,7 @@ plugins:
     enabled: false
     options:
       provider: giscus
-      options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
-        category: Announcements
-        categoryId: TODO:your-category-id
-        mapping: url
-        strict: true
-        reactionsEnabled: true
-        inputPosition: bottom
-        lightTheme: light
-        darkTheme: dark
-        lang: en
+      options: {}
     layout:
       position: afterBody
       priority: 10
@@ -233,15 +237,7 @@ plugins:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
-    enabled: true
-    options:
-      title: Recent Notes
-      limit: 5
-      linkToMore: false
-      showTags: true
-    layout:
-      position: left
-      priority: 25
+    enabled: false
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
@@ -271,6 +267,13 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: "@quartz-community/obsidian-plugin-excalidraw"
+    enabled: true
+    options:
+      enableInteraction: true
+      darkMode: auto
+      exportPadding: 20
+    order: 50
 layout:
   groups:
     toolbar:
