@@ -152,6 +152,8 @@ plugins:
     enabled: true
   - source: "@quartz-community/canvas-page"
     enabled: true
+    options:
+      enableInteraction: true
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
