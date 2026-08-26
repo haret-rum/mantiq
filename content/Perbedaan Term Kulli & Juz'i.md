@@ -16,14 +16,6 @@ publish: true
 
 ## Perbedaan-Perbedaan Berkaitan Dengan Kulli Dan Juz'i
 
-- sesuatu yang dihukumi sebagai sekumpulan (jumlah) - "seluruh, sekelompok"
-- sekumpulan yang tidak dapat disederhanakan hukumnya terhadap afrodnya
-	- santri putra - keseluruhan tapi satu kelompok satu padu - berhasil mengangkat batu yang besar
-	- ~~mas ridwan berhasil mengangkat batu besar~~ 
-- sesuatu yang tersusun dari bagian-bagian - manusia (yang tersusun kepala, kaki, tangan, badan)
-	- kepala merupakan juz dari manusia
-	- manusia merupakan kull dari kepala kaki, tangan, badan, dst.
-
 | Istilah            | Definisi                                                                                                   | Contoh               |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- | -------------------- |
 | كل<br>Kull         | sesuatu yang dihukumi sebagai sekumpulan<br>المجموع المحكوم عليه                                           | أهل الأزهر علماء     |
@@ -33,6 +25,15 @@ publish: true
 | جزئي<br>Juz'i      | isim yang mengandung makna yang tidak dapat diterapkan pada banyak afrad<br>ما يمتنع صدقه على أفراد كثيرين | زيد                  |
 | جزئية<br>Juz'iyyah | hukum yang diterapkan pada sebagian afrad<br>الحكم على بعض الأفراد                                         | بعض الإنسان صادق     |
 
+**Kull atau كل setidaknya memiliki 3 arti:
+
+- Sesuatu yang dihukumi sebagai sekumpulan (jumlah) - "seluruh, sekelompok"
+- Sekumpulan yang tidak dapat disederhanakan hukumnya terhadap afrodnya
+	- santri putra (keseluruhan tapi satu kelompok satu padu) berhasil mengangkat batu yang besar. “Santri putra” dalam hal mengangkut batu besar tidak dapat direduksi ke afrodnya. Akan keliru ketika kita mengatakan: mas ridwan berhasil mengangkat batu besar.
+- Sesuatu yang tersusun dari bagian-bagian. Misalnya: manusia (yang tersusun kepala, kaki, tangan, badan)
+	- kepala merupakan bagian atau juz dari manusia
+	- manusia merupakan keseluruhan atau kull dari kepala kaki, tangan, badan, dst.
+
 ## Taqsim
 
 **Taqsim**: memecah sesuatu menjadi beberapa bagian
@@ -41,7 +42,7 @@ Taqsim adakalanya ia berupa :
 1. memecah keseluruhan menjadi bagian-bagiannya atau تقسيم الكل إلى أجزائه , atau 
 2. pembagian universal terhadap partikular-partikularnya atau تقسيم الكلي إلى جزئياته. 
 
-#### Beberapa Istilah Penting
+#### Istilah Penting dalam Taqsim
 
 - مَقسِم sesuatu yang dibagi-bagi
 - الأقسام \ قسم bagian-bagian
@@ -112,16 +113,22 @@ flowchart LR
 
     style s2 stroke:#FFF9C4
 ```
+Di masa Aristoteles, metode taqsim atau klasifikasi dapat digunakan untuk menyusun definisi (taʿrīf). Misalnya, kita akan mendefinisikan gelas. Pertama, lakukan taqsim terlebih dahulu:
 
-Gelas <u>sesuatu yang dapat mejadi wadah yang berukuran kecil, yang bahannya bisa dari kaca atau kayu atau plastik.</u>
-
-Taqsim lengkapnya:
-sesuatu
-- yang dapat menjadi wadah
-	- berukuran kecil
-		- yang terbuat dari kaca
-		- yang terbuat dari kayu
-		- yang terbuat dari plastik
-	- berukuran sedang
-	- berukuran besar
+Gelas adalah sesuatu. Sesuatu pada umumnya dibagi menjadi:
 - tidak dapat menjadi wadah
+- yang dapat menjadi wadah {panci, baskom, gelas, teko dsb}
+	- berukuran besar
+	- berukuran sedang
+	- berukuran kecil {gelas, mangkok kecil, botol}
+		- tidak digunakan untuk minum
+		- digunakan untuk minum {gelas, botol}
+			- digenggam
+			- dijinjing dengan jari {gelas}
+				- yang terbuat dari kaca
+				- yang terbuat dari kayu
+				- yang terbuat dari plastik
+
+Dengan taqsīm di atas, kita dapat mendefinisikan gelas dengan:
+
+Gelas adalah <u>wadah yang berukuran kecil yang digunakan untuk minum dan dijinjing dengan jari, yang bahannya bisa dari kaca atau kayu atau plastik.</u>
