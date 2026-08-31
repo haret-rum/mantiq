@@ -64,7 +64,7 @@ flowchart RL
 
     n4 --> n15["الجنس البعيد + الفصل"]
 
-    n15 ~~~ n16["الفصل زحده"]
+    n15 ~~~ n16["الفصل وحده"]
 
     n5 --> n17["الجنس القريب + الخاصة"]
 
@@ -81,23 +81,24 @@ flowchart RL
     classDef Pine stroke-width:1px, stroke-dasharray:none, stroke:#254336, fill:#27654A, color:#FFFFFF
 ```
 
+\* Definisi berangkat dari apa itu manusia (ما هو الإنسان)
 
 - **Hadd Tam**
 	- Berupa jins qarib + fashl
-		- الانسان = حيوان [jins qarib] ناطق [fashl]
+		- حيوان [jins qarib] ناطق [fashl]
 - **Hadd Naqish**
 	- Berupa jins baid + fashl
-		- الانسان = جسم [jinss baid] ناطق [fashl]
+		- جسم [jinss baid] ناطق [fashl]
 	- Berupa fashl saja
-		- الانسان = ناطق [fashl]
+		- ناطق [fashl]
 - **Rasm Tam**
 	- Berupa jins qarib + khassah
-		- الانسان = حيوان [jinss qarib] ضاحك [khassah]
+		- حيوان [jinss qarib] ضاحك [khassah]
 - **Rasm Naqish**
 	- Berupa jins baid + khassah
-		- الانسان = جسم [jins baid] ضاحك [khassah]
+		- جسم [jins baid] ضاحك [khassah]
 	- Berupa khassah saja
-		- الانسان = ضاحك [khassah]
+		- ضاحك [khassah]
 
 Selain definisi dan deskripsi juga terdapat **Taʿrīf bil lafdz**, yaitu sebuah taʿrīf yang menjelaskan sebuah kata dengan padanan kata lainnya (murādif) yang lebih masyhur.
 
