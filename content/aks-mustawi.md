@@ -1,7 +1,6 @@
 ---
 title: 13 ʿaks Mustawi
 date: 2026-10-04
-permalink: aks-mustawi
 tags:
 aliases:
 publish: true

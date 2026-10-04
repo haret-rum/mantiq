@@ -1,7 +1,6 @@
 ---
 title: 12 Tanāqudh
 date: 2026-10-04
-permalink: tanaqud
 tags:
 aliases:
   - kontradiktori

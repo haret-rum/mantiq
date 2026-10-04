@@ -1,7 +1,6 @@
 ---
 title: 08 Taʿrīf
 description:
-permalink: tarif
 aliases:
   - Definisi
   - Qaul Syarih
