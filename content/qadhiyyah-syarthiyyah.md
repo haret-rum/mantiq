@@ -1,7 +1,6 @@
 ---
 title: 10 Qadhiyyah Syarthiyyah
 date: 2026-10-04
-permalink: qadhiyyah-syarthiyyah
 tags:
 aliases:
   - proposisi kondisional

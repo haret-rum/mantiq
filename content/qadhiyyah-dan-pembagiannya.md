@@ -1,7 +1,6 @@
 ---
 title: 09 Qadhiyyah dan Pembagiannya
 date: 2026-10-04
-permalink: qadhiyyah-dan-pembagiannya
 aliases:
   - proposisi
   - proposisi kategoris

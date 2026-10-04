@@ -1,7 +1,6 @@
 ---
 title: 11 Istghrāq
 date: 2026-10-04
-permalink: istighraq
 tags:
 aliases:
   - distribusi term
