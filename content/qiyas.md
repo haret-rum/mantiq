@@ -43,9 +43,9 @@ qiyās iqtirānī adalah qiyās yang menunjukkan natījah secara potensial. Maks
 
 $$  
 \begin{aligned}  
-&\text{Setiap jauhar di alam berubah (muqaddimah shughrā)} \\  
-&\text{Sebagian yang berubah itu baru (muqaddimah kubrā)} \\  
-\therefore \ &\text{sebagian jauhar di alam itu baru (natījah)}  
+&\text{Setiap jauhar di alam berubah (muqaddimah shughra)} \\  
+&\text{Sebagian yang berubah itu baru (muqaddimah kubra)} \\  
+\therefore \ &\text{sebagian jauhar di alam itu baru (natijah)}  
 \end{aligned}  
 $$
 
@@ -92,7 +92,7 @@ $$
 &\text{atau} \\
 \newline
 &\text{Seandainya umat muslim bersatu maka kekuasaan mereka akan kuat (syarthiyah)} \\  
-&\text{Setiap orang yang kuat adalah perkasa ((ḥamlīyah))} \\ 
+&\text{Setiap orang yang kuat adalah perkasa ((hamliyyah))} \\ 
 \therefore \ &\text{seandainya umat muslim bersatu mereka menjadi perkasa}  
 \end{aligned}  
 $$
