@@ -33,7 +33,7 @@ Taʿrīf dengan demikian merupakan piranti penting untuk mengetahui sebuah kata 
 
 ### Pembagian Taʿrīf
 
-Menjelaskan sesuatu dapat dilakukan dengan menyebutnya sifat-sifat yang dapat membedakannya dari sesuatu lainnya. Sifat-sifat ini bisa berupa:
+Menjelaskan sesuatu dapat dilakukan dengan menyebutnya sifat-sifat yang dapat membedakannya dari sesuatu lainnya. Sifat-sifat ini bisa berupa: 
 
 - **sifat** **esensial** (ذاتية) yang mengacu kepada sifat yang mau tidak mau pasti ada pada objek tertentu sehingga dapat membedakannya dari objek lain, yakni **fashl**. Jika demikian, sebuah Taʿrīf dapat dinamakan dengan **Taʿrīf bil Hadd (definisi)**
 - **sifat** **non**-**esensial** (عرضية) yang mengacu kepada sifat yang tidak mesti ada pada objek tertentu, tetapi dapat membedakannya dari objek lain, yakni **khasshah**. Jika demikian, Taʿrīf dapat dinamakan **Taʿrīf bir Rasm (deskripsi)**

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <style>
+    .title { font: 700 24px sans-serif; fill: #222; }
+    .label { font: 20px sans-serif; fill: #222; }
+    .small { font: 17px sans-serif; fill: #222; }
+    .set { fill-opacity: .18; stroke-width: 3; }
+    .dash { stroke: #555; stroke-width: 3; stroke-dasharray: 9 7; fill: none; }
+  </style>
+
+  <!-- 1. Every human thinks: MANUSIA ⊆ BERPIKIR -->
+  <text x="70" y="45" class="title">1. Setiap manusia itu berpikir</text>
+  <ellipse cx="260" cy="155" rx="190" ry="105" class="set" fill="#6c8ebf" stroke="#333"/>
+  <ellipse cx="260" cy="155" rx="105" ry="55" class="set" fill="#82b366" stroke="#333"/>
+  <text x="120" y="105" class="label">Berpikir</text>
+  <text x="225" y="160" class="label">Manusia</text>
+
+  <!-- 2. Every triangle is a plane figure: SEGITIGA ⊆ BANGUN DATAR -->
+  <text x="650" y="45" class="title">2. Setiap segitiga itu bangun datar</text>
+  <ellipse cx="850" cy="155" rx="190" ry="105" class="set" fill="#6c8ebf" stroke="#333"/>
+  <polygon points="850,85 790,205 910,205" class="set" fill="#82b366" stroke="#333"/>
+  <text x="735" y="105" class="label">Bangun datar</text>
+  <text x="815" y="190" class="small">Segitiga</text>
+
+  <!-- 3. Some law students are Cairo people -->
+  <text x="70" y="335" class="title">3. Sebagian mahasiswa hukum adalah orang Kairo</text>
+  <circle cx="235" cy="450" r="105" class="set" fill="#6c8ebf" stroke="#333"/>
+  <circle cx="345" cy="450" r="105" class="set" fill="#82b366" stroke="#333"/>
+  <circle cx="290" cy="450" r="20" fill="#333"/>
+  <text x="145" y="455" class="small">Mahasiswa hukum</text>
+  <text x="330" y="455" class="small">Orang Kairo</text>
+  <text x="270" y="495" class="small">∃</text>
+
+  <!-- 4. Some humans are poets -->
+  <text x="650" y="335" class="title">4. Sebagian manusia adalah penyair</text>
+  <circle cx="815" cy="450" r="105" class="set" fill="#6c8ebf" stroke="#333"/>
+  <circle cx="925" cy="450" r="105" class="set" fill="#82b366" stroke="#333"/>
+  <circle cx="870" cy="450" r="20" fill="#333"/>
+  <text x="755" y="455" class="label">Manusia</text>
+  <text x="885" y="455" class="label">Penyair</text>
+  <text x="850" y="495" class="small">∃</text>
+
+  <!-- 5. No triangle is a circle: SEGITIGA ∩ LINGKARAN = ∅ -->
+  <text x="70" y="625" class="title">5. Semua segitiga bukanlah lingkaran</text>
+  <circle cx="210" cy="745" r="90" class="set" fill="#6c8ebf" stroke="#333"/>
+  <circle cx="390" cy="745" r="90" class="set" fill="#82b366" stroke="#333"/>
+  <line x1="150" y1="685" x2="450" y2="805" class="dash"/>
+  <line x1="450" y1="685" x2="150" y2="805" class="dash"/>
+  <text x="165" y="750" class="label">Segitiga</text>
+  <text x="350" y="750" class="label">Lingkaran</text>
+  <text x="270" y="825" class="small">tidak beririsan</text>
+
+  <!-- 6. Some metals are not gold -->
+  <text x="650" y="625" class="title">6. Sebagian logam bukanlah emas</text>
+  <ellipse cx="810" cy="750" rx="145" ry="95" class="set" fill="#6c8ebf" stroke="#333"/>
+  <ellipse cx="930" cy="750" rx="105" ry="70" class="set" fill="#82b366" stroke="#333"/>
+  <circle cx="775" cy="750" r="20" fill="#333"/>
+  <text x="700" y="755" class="label">Logam</text>
+  <text x="885" y="750" class="label">Emas</text>
+  <text x="748" y="800" class="small">∃ logam ∉ emas</text>
+</svg>
