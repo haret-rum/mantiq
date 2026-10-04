@@ -1,5 +1,5 @@
 ---
-title: 14 qiyās
+title: 14 Qiyās
 date: 2026-10-04
 permalink: qiyas
 tags:

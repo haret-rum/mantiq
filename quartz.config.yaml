@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Amiri
-      body: Amiri
+      header: Literata
+      body: Literata
       code: IBM Plex Mono
       title: Literata
     colors:
