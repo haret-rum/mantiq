@@ -1,9 +1,8 @@
 ---
-title: 11 Istghrāq
+title: 11 Istighrāq
 date: 2026-10-04
 tags:
 aliases:
-  - distribusi term
 publish: true
 ---
 Distribusi term atau istighrāq adalah masalah tertebar atau tidak tertebarnya ḥudūd (term) dalam qadhiyyah ḥamliyyah. istighrāq dapat dilihat baik dari posisi maudhūʿ maupun maḥmūl: apakah yang diacu dari masing-masing dari keduanya mencakup **keseluruhan afrādnya ataukah tidak**.
@@ -79,7 +78,6 @@ manusia: mustaghraq
 Qadhiyyah juz'iyyah salibah, maudhūʿnya ghairu mustaghraq sedangkan maḥmūlnya sudah selalu mustaghraq.
 
 Kaidah ⇒  istighrāq al-maḥmūl wa adamu istighrāq al-maudhūʿ
-
 
 | Qadhiyyah | maudhūʿ           | maḥmūl            |
 | --------- | ----------------- | ----------------- |
