@@ -66,7 +66,7 @@ Sehingga dapat diketahui hukum shadiq-kadzibnya
 
 **Square of Opposition (murabba' al-taqabul) yang menjelaskan hubungan antara bentuk qadhiyyah satu dengan bentuk qadhiyyah lainnya:**
 
-![](tanaqudh-1791183780619.png)
+![](tanaqudh-1791184380483.png)
 
 #### contoh tanaqud (kontradiktori):
 _setiap besi adalah logam ⇒ sebagian besi bukanlah logam_ (A ⇒ O dan E ⇒ I ). 
